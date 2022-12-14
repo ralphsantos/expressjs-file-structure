@@ -1,7 +1,7 @@
 {
-  "name": "node-express-task-manager-rest",
+  "name": "express-js-file-structure",
   "version": "1.0.0",
-  "description": "A Task Manager Rest API to store and get the tasks from the back-end server",
+  "description": "A basic Express JS project file structure. You can use this file structure to create your Node projects built with Express.",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
